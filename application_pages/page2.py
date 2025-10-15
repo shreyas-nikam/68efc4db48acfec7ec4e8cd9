@@ -1,4 +1,4 @@
-"""
+
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -191,4 +191,3 @@ def run_page2():
 
 if __name__ == "__main__":
     run_page2()
-"""
